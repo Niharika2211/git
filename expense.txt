@@ -9,3 +9,7 @@ kubernetes
 
 jenkins
 sonarqube
+
+terraform 
+variables
+output
