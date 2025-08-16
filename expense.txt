@@ -3,3 +3,9 @@ sonarscan
 veracode
 DAST 
 SAST
+
+docker 
+kubernetes
+
+jenkins
+sonarqube
