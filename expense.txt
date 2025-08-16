@@ -9,3 +9,5 @@ kubernetes
 
 jenkins
 sonarqube
+
+terraform
