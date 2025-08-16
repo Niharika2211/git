@@ -1,0 +1,1 @@
+devsecops is a methodology where we use SAST and DAST for the security reasons for application 
