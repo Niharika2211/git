@@ -4,12 +4,3 @@ veracode
 DAST 
 SAST
 
-docker 
-kubernetes
-
-jenkins
-sonarqube
-
-terraform 
-variables
-output
